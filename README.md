@@ -10,5 +10,7 @@
 ## 神经网络
 ![NN](https://github.com/iisdd/RL-DC-DC/blob/main/figure/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.jpg)
 
-
+# 仿真结果
+## 微源电压变化
+![V](https://github.com/iisdd/RL-DC-DC/blob/main/figure/V%E4%BB%BF%E7%9C%9F%E7%BB%93%E6%9E%9C.png)
 
