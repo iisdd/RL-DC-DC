@@ -14,3 +14,5 @@
 ## 微源电压变化
 ![V](https://github.com/iisdd/RL-DC-DC/blob/main/figure/V%E4%BB%BF%E7%9C%9F%E7%BB%93%E6%9E%9C.png)
 
+## 阻性负载变化
+![R](https://github.com/iisdd/RL-DC-DC/blob/main/figure/R%E4%BB%BF%E7%9C%9F%E7%BB%93%E6%9E%9C.png)
