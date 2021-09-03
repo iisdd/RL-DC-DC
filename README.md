@@ -16,3 +16,8 @@
 
 ## 阻性负载变化
 ![R](https://github.com/iisdd/RL-DC-DC/blob/main/figure/R%E4%BB%BF%E7%9C%9F%E7%BB%93%E6%9E%9C.png)
+
+## CPL变化
+![CPL](https://github.com/iisdd/RL-DC-DC/blob/main/figure/RL%E5%92%8CPI%E5%AF%B9%E6%AF%94.jpg)
+
+
